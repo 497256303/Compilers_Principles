@@ -1,0 +1,8 @@
+program test;
+integer i;
+var j;
+real k;
+if i>j
+j=i
+end;
+` 

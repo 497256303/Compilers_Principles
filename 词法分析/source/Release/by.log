@@ -1,0 +1,7 @@
+﻿  by.cpp
+by.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afxwin2.inl(1074): note: 参见“CWinApp::Enable3dControls”的声明
+  byDlg.cpp
+  正在生成代码...
+  by.vcxproj -> \\vmware-host\Shared Folders\桌面\词法分析器\.\Release\by.exe
+  by.vcxproj -> .\Release\by.pdb (Full PDB)
